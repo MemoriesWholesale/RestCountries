@@ -1,0 +1,15 @@
+.is-invisible{
+    display:none;
+}
+
+.is-visible{
+    display:block;
+} 
+
+#viewflag{
+    font-size:150px;
+}
+
+#viewcapital, #viewcurrency, #viewlanguages{
+    font-size:large;
+}
